@@ -1,0 +1,22 @@
+{
+  "name": "palindromic",
+  "version": "1.0.0",
+  "description": "Code Challenge Palindromic",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogonzalez88/palindromic.git"
+  },
+  "author": "roberto.gonzalez.v88@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogonzalez88/palindromic/issues"
+  },
+  "homepage": "https://github.com/rogonzalez88/palindromic#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
